@@ -11,12 +11,12 @@ To develop a low-cost, efficient hygiene monitoring system that ensures cleanlin
 
 ##  Features
 
-* 🚶 Motion detection using PIR sensor
-* 🌫️ Air quality monitoring using MQ-135 gas sensor
-* 🌡️ Temperature and humidity tracking (DHT11)
-* 💧 Water flow monitoring
-* ⚡ Automated response using relay control
-* 📊 Real-time data processing via ESP32
+*  Motion detection using PIR sensor
+*  Air quality monitoring using MQ-135 gas sensor
+*  Temperature and humidity tracking (DHT11)
+*  Water flow monitoring
+*  Automated response using relay control
+*  Real-time data processing via ESP32
 
 ##  Tech Stack
 
@@ -32,7 +32,7 @@ The system collects environmental data through sensors and processes it using th
 
 ![Setup](images/image1.jpg)
 ![Output](images/image2.jpeg)
-![Working](images/image3.png)
+
 
 ##  Documentation
 
@@ -54,9 +54,9 @@ The system collects environmental data through sensors and processes it using th
 
 ##  Author
 
-Madhumitha Anand
-Akshaya M
-Mohammed Nihal A
+Madhumitha Anand | 
+Akshaya M | 
+Mohammed Nihal A | 
 B.Tech AI & DS
 
 ---
