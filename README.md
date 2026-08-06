@@ -30,8 +30,9 @@ The system collects environmental data through sensors and processes it using th
 
 ##  Project Images
 
-![Setup](images/setup.jpg)
-![Output](images/output.jpg)
+![Setup](images/image1.jpg)
+![Output](images/image2.jpeg)
+![Working](images/image3.png)
 
 ##  Documentation
 
